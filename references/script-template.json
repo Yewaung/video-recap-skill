@@ -1,0 +1,27 @@
+{
+  "voice": "woman",
+  "rate": "+20%",
+  "pov": "first_person",
+  "caption_mode": "frosted-mask",
+  "max_speed": 1.28,
+  "gap_sec": 0.08,
+  "max_borrow_sec": 0.35,
+  "band_y": 528,
+  "band_h": 112,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.0,
+      "en": "Every morning at six, the small corner cafe opens its wooden shutters to the quiet street.",
+      "mm": "မနက် ခြောက်နာရီတိုင်း ထောင့်ချိုးက ကော်ဖီဆိုင်လေး တံခါးဖွင့်လေ့ရှိတယ်။"
+    },
+    {
+      "id": 2,
+      "start": 4.0,
+      "end": 8.2,
+      "en": "By sunrise, the warm aroma of fresh coffee fills the whole neighborhood.",
+      "mm": "နေထွက်ချိန်ရောက်တာနဲ့ ကော်ဖီနံ့သင်းသင်းက တစ်လမ်းလုံး ပျံ့နှံ့သွားတော့တယ်။"
+    }
+  ]
+}

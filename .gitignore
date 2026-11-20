@@ -1,0 +1,23 @@
+.venv/
+build/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.DS_Store
+Thumbs.db
+
+# Local media & user-generated recap assets (kept local, excluded from public git)
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.m4v
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.srt
+*.ass
+input/scripts/*.json
+output/*
+!output/.gitkeep
